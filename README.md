@@ -35,10 +35,10 @@ Hello! I'm **So-rei**, a passionate developer with a focus on creating efficient
 ---
 
 ## 🚀 Projects and Interests
- - [c#]クラフトピアのセーブデータ改変ツール https://github.com/So-rei/CraftopiaViewSaveData
- - [c#](old)パンヤのステータス計算ツール https://github.com/So-rei/PangyaStatusSimulator
- - [c#]ポケモンの計算ができるはずのツール　未完成　https://github.com/So-rei/PKMN_CALC
- - [js]ポケモンの性格値から光る判定をするツール(4g/5g) https://github.com/So-rei/Pokemon_Shiny_Calc
+ - [c#] クラフトピアのセーブデータ改変ツール https://github.com/So-rei/CraftopiaViewSaveData
+ - [c#] パンヤのステータス計算ツール https://github.com/So-rei/PangyaStatusSimulator
+ - [c#] ポケモンの計算ができるはずのツール　未完成　https://github.com/So-rei/PKMN_CALC
+ - [js] ポケモンの性格値から光る判定をするツール(4g/5g) https://github.com/So-rei/Pokemon_Shiny_Calc
 
 
 ---
